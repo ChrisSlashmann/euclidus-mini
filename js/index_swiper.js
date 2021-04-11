@@ -1,0 +1,1 @@
+var mySwiper=new Swiper(".swiper-container",{direction:"horizontal",loop:!0,spaceBetween:15,pagination:{el:".swiper-pagination",clickable:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});
