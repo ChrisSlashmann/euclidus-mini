@@ -1,1 +1,0 @@
-# euclidus-mini
